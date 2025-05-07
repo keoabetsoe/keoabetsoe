@@ -13,7 +13,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Bitcoin Price Monitoring and Alert System:](https://github.com/Keoabetsoe1217)
+  - [Bitcoin Price Monitoring and Alert System:](https://github.com/keoabetsoe/Bitcoin-Price-Monitoring-and-Alert-System))
     - I developed a Python application to track Bitcoin prices in real-time using the BitMEX API.
   
   - [Forex Trading Bot:](https://github.com/Keoabetsoe1217)
