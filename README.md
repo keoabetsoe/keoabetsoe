@@ -13,13 +13,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Bitcoin Price Monitoring and Alert System:](https://github.com/keoabetsoe/Bitcoin-Price-Monitoring-and-Alert-System))
+  - [Bitcoin Price Monitoring and Alert System:](https://github.com/keoabetsoe/Bitcoin-Price-Monitoring-and-Alert-System)
     - I developed a Python application to track Bitcoin prices in real-time using the BitMEX API.
   
-  - [Forex Trading Bot:](https://github.com/keoabetsoe/Forex-Trading-Indicator/blob/main/forex%20trading%20indicator.py))
+  - [Forex Trading Bot:](https://github.com/keoabetsoe/Forex-Trading-Indicator/blob/main/forex%20trading%20indicator.py)
     - I developed a real-time forex trading bot that uses buy/sell signals for EURUSD.I used yFinance API to fetch real-time market data.
    
-  - [Stock Market Investing Bot:] () 
+  - [Stock Market Investing Bot:](https://github.com/keoabetsoe/Stock-Market-Investing-Bot/blob/main/Stock%20Market%20Bot.py) 
     
 - <b>Web Development</b>
   - [Website Dictionary:](https://github.com/Keoabetsoe1217 )
