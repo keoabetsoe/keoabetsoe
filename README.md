@@ -22,7 +22,7 @@
   - [Stock Market Investing Bot:](https://github.com/keoabetsoe/Stock-Market-Investing-Bot/blob/main/Stock%20Market%20Bot.py) 
     
 - <b>Web Development</b>
-  - [Website Dictionary:](https://github.com/Keoabetsoe1217 )
+  - [Website Dictionary:](https://github.com/keoabetsoe/Website-Dictionary) 
      - I created a website dictionary that can search for the meaning of any word. I used HTML, CSS, Javascript 
     and API. 
 
