@@ -16,8 +16,8 @@
   - [Bitcoin Price Monitoring and Alert System:](https://github.com/keoabetsoe/Bitcoin-Price-Monitoring-and-Alert-System))
     - I developed a Python application to track Bitcoin prices in real-time using the BitMEX API.
   
-  - [Forex Trading Bot:](https://github.com/Keoabetsoe1217)
-    - I developed a real-time forex trading bot that uses buy/sell signals.I used yFinance API to fetch real-time market data
+  - [Forex Trading Bot:](https://github.com/keoabetsoe/Forex-Trading-Indicator/blob/main/forex%20trading%20indicator.py))
+    - I developed a real-time forex trading bot that uses buy/sell signals for EURUSD.I used yFinance API to fetch real-time market data.
     
 - <b>Web Development</b>
   - [Website Dictionary:](https://github.com/Keoabetsoe1217 )
