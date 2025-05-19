@@ -18,6 +18,8 @@
   
   - [Forex Trading Bot:](https://github.com/keoabetsoe/Forex-Trading-Indicator/blob/main/forex%20trading%20indicator.py))
     - I developed a real-time forex trading bot that uses buy/sell signals for EURUSD.I used yFinance API to fetch real-time market data.
+   
+  - [Stock Market Investing Bot:] () 
     
 - <b>Web Development</b>
   - [Website Dictionary:](https://github.com/Keoabetsoe1217 )
