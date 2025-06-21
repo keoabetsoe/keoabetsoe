@@ -1,33 +1,52 @@
-<h1>Hi, I'm Keoabetsoe Sinakhomo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Developer</a>
+<h1 align="center">Hi, I'm Keoabetsoe Sinakhomo! 👋</h1>
+<h3 align="center"><a href="http://www.linkedin.com/in/keabetsoe-sinakhomo-969a25299">Programmer</a> | <a href="http://www.linkedin.com/in/keabetsoe-sinakhomo-969a25299">Junior Software Developer</a></h3>
 
-<h2>Profile</h2>
+---
 
-<p>Aspiring software developer passionate about building scalable and efficient solutions. Proficient in Python, Java, and C#, with hands-on experience in API integration, object-oriented programming, and real-time data processing. A strong problem-solver with a deep interest in technology and entrepreneurship. Adaptable in team environments, quick to learn new technologies, and focused on delivering innovative solutions. Currently expanding expertise in cloud computing, databases, and full-stack development to make impactful contributions to the tech industry.</p>
+### 📄 Profile
+Aspiring software developer passionate about building scalable and efficient software. Skilled in **Python**, **Java**, and **C#**, with hands-on experience in:
 
-<h2>🛠Tech Stack</h2>
+- 🔁 API integration  
+- ⚙️ Object-oriented programming  
+- 📊 Real-time data processing
 
-- 💻 **Languages:** Python | Java | C# | HTML | CSS
-- 🌐 **Web:** REST APIs | Front-End Fundamentals
-- 🗃️ **Learning:** SQL | JavaScript | Cloud Platforms | Full-Stack Frameworks
+I’m a strong problem-solver with a deep interest in **technology**. I thrive in team environments, adapt quickly to new technologies, and love delivering **innovative** solutions. Currently upskilling in:
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- ☁️ Cloud Computing  
+- 🧠 Databases  
+- 🌐 Full-Stack Web Development
 
-- <b>Python</b>
-  - [Bitcoin Price Monitoring and Alert System:](https://github.com/keoabetsoe/Bitcoin-Price-Monitoring-and-Alert-System)
-    - I developed a Python application to track Bitcoin prices in real-time using the BitMEX API.
-  
-  - [Forex Trading Bot:](https://github.com/keoabetsoe/Forex-Trading-Indicator/blob/main/forex%20trading%20indicator.py)
-    - I developed a real-time forex trading bot that uses buy/sell signals for EURUSD.I used yFinance API to fetch real-time market data.
-   
-  - [Stock Market Investing Bot:](https://github.com/keoabetsoe/Stock-Market-Investing-Bot/blob/main/Stock%20Market%20Bot.py) 
-    
-- <b>Web Development</b>
-  - [Website Dictionary:](https://github.com/keoabetsoe/Website-Dictionary) 
-     - I created a website dictionary that can search for the meaning of any word. I used HTML, CSS, Javascript 
-    and API. 
+---
 
-<h2> 🤳 Connect with me:</h2>
+### 🛠 Tech Stack
 
-[<img align="left" alt="Keoabetsoe Sinakhomo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 💻 **Languages:** Python | Java | C# | HTML | CSS  
+- 🌐 **Web:** REST APIs | Front-End Basics  
+- 📚 **Currently Learning:** SQL | JavaScript | Cloud Platforms | Full-Stack Frameworks
 
-[linkedin]: www.linkedin.com/in/keabetsoe-sinakhomo-969a25299 
+---
+
+### 👨‍💻 Projects
+
+#### Python Projects
+- 🔔 [**Bitcoin Price Monitoring and Alert System**](https://github.com/keoabetsoe/Bitcoin-Price-Monitoring-and-Alert-System)  
+  A real-time Bitcoin price tracker using the BitMEX API with alert notifications.
+
+- 📈 [**Forex Trading Bot**](https://github.com/keoabetsoe/Forex-Trading-Indicator/blob/main/forex%20trading%20indicator.py)  
+  Real-time trading bot using buy/sell signals for EUR/USD via yFinance API.
+
+- 📊 [**Stock Market Investing Bot**](https://github.com/keoabetsoe/Stock-Market-Investing-Bot/blob/main/Stock%20Market%20Bot.py)  
+  A Python bot that assists in making stock market investment decisions.
+
+#### Web Development
+- 📚 [**Website Dictionary**](https://github.com/keoabetsoe/Website-Dictionary)  
+  A simple word lookup web app using HTML, CSS, JavaScript, and an external dictionary API.
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keabetsoe-sinakhomo-969a25299)
+
+---
+
